@@ -14,8 +14,8 @@ variable "AWS_REGION" {
   default = "us-west-2"
 }
 variable "AWS_ACCESS_KEY" {
-  default = "AKIAJOX67FHGUSWPDEZA"
+  default = ""
 }
 variable "AWS_SECRET_KEY" {
-  default = "BlSvziMUuYP984tjmjJ7XAR5m5d1siLO3U8a80Yt"
+  default = ""
 }
